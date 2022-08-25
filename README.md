@@ -32,8 +32,6 @@ Each small helper function will have detailed instructions to walk you through t
     - Stack [LINEAR->RELU] backward L-1 times and add [LINEAR->SIGMOID] backward in a new L_model_backward function
 - Finally, update the parameters
 
-<img src="images/final outline.png" style="width:800px;height:500px;">
-<caption><center><b>Figure 1</b></center></caption><br>
 
 
 **Note**:
